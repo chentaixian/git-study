@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("master push first");
         System.out.println("dev 1");
+
+        System.out.println("dev push");
     }
 }
