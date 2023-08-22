@@ -7,5 +7,6 @@ public class Main {
         System.out.println("dev 1");
 
         System.out.println("dev push");
+        System.out.println("test push");
     }
 }
